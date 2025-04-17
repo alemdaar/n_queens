@@ -1,0 +1,93 @@
+check
+setup
+while, i = 0, head = 0
+head is 0
+check
+setup
+while, i = 0, head = 1
+same line
+i++
+while, i = 1, head = 1
+x_dire
+i++
+while, i = 2, head = 1
+set range
+go again
+check
+setup
+while, i = 0, head = 2
+same line
+i++
+while, i = 1, head = 2
+set range
+go again
+check
+setup
+while, i = 0, head = 3
+same line
+i++
+while, i = 1, head = 3
+same line
+i++
+while, i = 2, head = 3
+same line
+i++
+while, i = 3, head = 3
+x_dire
+i++
+raje rjae
+while, i = 2, head = 3
+same line
+i++
+while, i = 3, head = 3
+x_dire
+i++
+raje rjae
+while, i = 3, head = 2
+x_dire
+i++
+raje rjae
+
+
+while, i = 1, head = 1
+x_dire
+i++
+while, i = 2, head = 1
+set range
+go again
+check
+setup
+while, i = 0, head = 2
+same line
+i++
+while, i = 1, head = 2
+set range
+go again
+check
+setup
+while, i = 0, head = 3
+same line
+i++
+while, i = 1, head = 3
+same line
+i++
+while, i = 2, head = 3
+same line
+i++
+while, i = 3, head = 3
+x_dire
+i++
+raje rjae
+while, i = 2, head = 3
+same line
+i++
+while, i = 3, head = 3
+x_dire
+i++
+raje rjae
+while, i = 3, head = 2
+x_dire
+i++
+raje rjae
+
+solutions are : 0
